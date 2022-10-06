@@ -1,0 +1,370 @@
+@media screen and (max-width: 1399px) {
+  .ad_space img {
+    width: 100%;
+    display: block;
+  }
+  .slider_desc { padding: 25px; }
+  .slider_desc h1 { font-size: 50px; }
+  .slider_desc h1::after {top: 50%;}
+}
+
+@media screen and (max-width: 1199px) {
+  .customer_slider .slick-slide img {
+      width: 50px;
+      height: 50px;
+      border-radius: 100%;
+  }
+  .design {
+    padding: 0;
+  }
+  .purple_bg {
+    background-color: #e9e6ff;
+    padding: 120px 0 340px;
+    position: relative;
+  }
+  .shop_btn {
+    padding: 16px 31px;
+    font-size: 14px;
+  }
+  .rooms {
+    padding: 55px 0 170px;
+  }
+  .customer_slider {
+    padding: 21px 0 75px;
+  }
+  .social li a i {
+    font-size: 22px;
+    margin-right: 26px;
+  }
+  .category {
+    padding: 65px 0;
+  }
+  .product_slider {
+    padding: 66px 0 45px;
+  }
+
+  .slider_desc h1::after {
+    display: none;
+  }
+  .slider_desc {
+    padding: 39px;
+    right: 70%;
+    max-width: 551px;
+  }
+  .main_slider .slick-prev {
+    background-position: center -28px;
+  }
+  .main_slider .slick-next {
+    background-position: center -28px;
+  }
+  .shop ul li {
+    padding: 0 15px;
+    width: 20.66%;
+    margin: 0 0 15px;
+  }
+  .heading h2 {
+    font-size: 35px;
+  }
+  .heading h2 span {
+    font-size: 40px;
+  }
+  .cart {
+    display: flex;
+  }
+
+  .slider_desc h1 {
+    font-size: 50px;
+  }
+
+  .slider_desc h1::after {
+    top: -14px;
+  }
+
+  .slider_desc .shop_btn {
+    margin-top: 10px;
+    display: inline-block;
+  }
+
+  .main_slider .slick-prev {
+    width: 60px;
+    height: 50px;
+  }
+
+  .main_slider .slick-next {
+    width: 60px;
+    height: 50px;
+  }
+
+}
+@media screen and (max-width:991px) {
+  .slider_desc {
+    padding: 20px;
+}
+.slider_desc h1 {
+  font-size: 35px;
+}
+.shop_btn {
+  padding: 11px 21px;
+  font-size: 14px;
+}
+  .search_form form {
+    width: 90%;
+    float: right;
+    max-width: 100%;
+}
+.search_inp {
+  padding: 10px 15px;
+  font-size: 14px;
+}
+.search_form {
+  position: absolute;
+  bottom: -70px;
+  right: 0;
+  padding: 0;
+}
+.search_icon {bottom: 9px;}
+  .social li a i {
+    font-size: 20px;
+    margin-right: 16px;
+  }
+  .logo {
+    padding: 0;
+  }
+  .shop ul li {
+    padding: 0 7px;
+    width: 25%;
+    margin: 0 0 15px;
+  }
+  .purple_bg {
+    padding: 80px 0 140px;
+  }
+  .heading h2 {
+    font-size: 28px;
+  }
+  .heading h2 span {
+    font-size: 34px;
+    display: initial;
+  }
+  .advt1 {
+    top: -30px;
+  }
+  .arrival_slider {
+    margin-top: -150px;
+  }
+  .design {
+    padding: 0px 40px 40px;
+  }
+  .review p {
+    font-size: 14px;
+
+  }
+  .review h4 {
+    font-size: 16px;
+  }
+  .img_overlay .slick-prev {
+    top: -30px;
+  }
+  .img_overlay .slick-next {
+    top: -30px;
+  }
+  header form {
+    max-width: 80%;
+    width: 100%;
+}
+.product_slider, .category {
+  padding: 40px 0;
+}
+.rooms h3 {
+  font-size: 27px;
+  padding: 10px 0;
+}
+.customer_slider {
+  padding: 0px 0 30px;
+}
+.top_header {
+  position: relative;
+}
+.email_ad  {text-align: center;}
+.search_bar {margin: 0 auto;}
+.rooms {
+  padding: 40px 0 160px;
+}
+}
+
+@media screen and (max-width:767px){
+  .rooms h3 {
+    font-size: 21px;
+    padding: 10px 0 0;
+    text-align: center;
+  }
+  .rooms {
+    padding: 30px 0;
+  }
+  .email_ad h1 {
+    font-size: 38px;
+  }
+  .design {
+    padding: 0;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  .img_bg {
+    top: -17px;
+  }
+  .heading h2 span {
+    font-size: 28px;
+    margin-left: 3px;
+  }
+    .banner_img {
+      width: 100%;
+      float: none;
+  }
+  .slider_desc {
+    padding: 20px;
+    right: auto;
+    max-width: 551px;
+    transform: translate(-50%, -50%);
+    margin-right: 0;
+    left: 50%;
+  }
+  .main_slider .slick-prev {
+    right: auto;
+    left: 0;
+  }
+  .main_slider .slick-next {left: 60px;}
+    .advt,.advt1{
+      display: none;
+  }
+  
+    .purple_bg {
+      padding: 40px 0 200px;
+   }
+    .arrival_slider {
+      margin-top: -180px;
+    }
+    .room h3 {
+      font-size: 36px;
+    }
+    .menu {
+      box-shadow: 17px 0px 15px 0px rgb(0 0 0 / 10%);
+    }
+    .rooms h3{
+      margin: 10px 0;
+    }
+    .category .heading {
+      margin-top: 0;
+  }
+}
+@media screen and (max-width: 575px) {
+  .slider_desc h1 {
+      font-size: 24px;
+  }
+  .slider_desc p {
+    font-size: 14px;
+  }
+  .slider_desc .shop_btn {
+    margin-top: 0px;
+  }
+  .main_slider {
+    margin-top: 0px;
+  }
+    .login_menu {
+      padding: 5px;
+  }
+.login_menu:hover {
+  color: #fff;
+  background-color: #ec6224;
+  
+}
+header button.btn-primary {
+  position: absolute;
+  top: 10px;
+  right: 0;
+  background: #ec6224;
+}
+
+header .btn-check:focus+.btn-primary, header .btn-primary:focus, header .btn-primary:hover {
+ box-shadow: none;
+  background-color: #ec6224;
+  border-color: #ec6224;
+}
+.header_right {
+  position: absolute;
+  top: 75px;
+  right: 0px;
+}
+.slider_desc {
+    max-width: 391px;
+}
+.shop ul li {
+  width: 33.33%;
+}
+.email_ad h1 {
+  font-size: 30px;
+}
+.email_ad h6 {
+  font-size: 14px;
+}
+.email_ad .shop_btn {
+  padding: 12px 15px;
+}
+.category .heading {
+  margin-top: 14px;
+}
+.rooms img {
+  margin: auto;
+  display: block;
+  max-width: 300px;
+}
+.main_slider .slick-next {
+    width: 45px;
+    height: 40px;
+    background-position: center -32px;
+    bottom: 50%;
+    right: 0;
+    left: auto;
+    margin-bottom: -20px;
+  }
+  .main_slider .slick-next:hover {
+    background-position: center 14px;
+  }
+
+  .main_slider .slick-prev:hover {
+    background-position: center 14px;
+  }
+
+  .main_slider .slick-prev {
+    width: 45px;
+    height: 40px;
+  
+    background-position: center -32px;
+    bottom: 50%;
+    right: auto;
+    left: 0;
+    margin-bottom: -20px;
+  }
+  .main_slider .slick-dots {
+    margin-top: 0;
+    top: 10%;
+    bottom: auto;
+  }
+  .product_slider, .category {
+    padding: 30px 0;
+  }
+  .social li a i {
+    font-size: 20px;
+    margin-right: 8px;
+  }
+  .footer {
+    padding: 20px 0 0;
+  }
+  .shop ul li span {    font-size: 14px;}
+  .cart {
+    justify-content: center;
+    margin-top: 20px;
+  }
+}
+@media screen and (max-width: 378px) {
+
+  
+}
